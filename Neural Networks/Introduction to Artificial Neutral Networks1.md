@@ -1,0 +1,3 @@
+# Introduction to Artificial Neutral Networks
+
+The study of artificial neural networks (ANNs) has been inspired in part by the observation that biological learning systems are built of very complex webs of interconnected neurons in brains. The human brain contains a densely interconnected network of approximately 10^11-10^12 neurons, each connected neuron, on average connected, to l0^4-10^5 other neurons. So on average human brain takes approximately 10^-1 to make surprisingly complex decisions.
